@@ -19,7 +19,7 @@ background("traffic.jpg");
 }
 
 function draw() {
-image(img1,400, 400);
+image(img1,1500, 1400);
   image(img2,mouseY,170);
   image(img3,mouseX, 350);
  image(img4, mouseX, mouseY, 63, 63);
