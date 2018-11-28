@@ -15,8 +15,8 @@ background("traffic.jpg");
 
 function draw() {
 image(img1,1500, 1400);
-  image(img2,mouseY,730);
-  image(img3,mouseX, 1250);
+  image(img2,mouseY,450);
+  image(img3,mouseX, 1230);
  image(img4, mouseX, mouseY, 63, 63);
 
 }
